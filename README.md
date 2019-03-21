@@ -120,7 +120,7 @@ Request Method: PUT
 
 ```
 
-### Get Recipe by Id
+#### Get Recipe by Id
 
 ```
 Url : BASE_URL + '<recipe_id>'
